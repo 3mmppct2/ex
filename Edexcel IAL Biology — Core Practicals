@@ -1,0 +1,757 @@
+# Edexcel IAL Biology — Core Practicals
+
+## Specification: 2018
+
+Pearson Edexcel International Advanced Level Biology
+contains 18 core practical activities.
+
+- IAS: Core Practicals 1–9
+- IA2: Core Practicals 10–18
+
+Practical skills are assessed through written examinations:
+- WBI13/01 — Practical Skills in Biology I
+- WBI16/01 — Practical Skills in Biology II
+
+Students must also apply practical knowledge to unfamiliar
+experimental situations.
+
+The procedures below are revision examples aligned with
+the official practical objectives, not mandatory official
+step-by-step protocols.
+
+---
+
+# PART 1 — CORE PRACTICAL INDEX
+
+## IAS Practicals — CP1 to CP9
+
+CP1:
+Estimate concentrations of reducing sugars and starch
+using Benedict's reagent, iodine and colour standards.
+
+CP2:
+Investigate vitamin C content in foods and drinks.
+
+CP3:
+Investigate effects of alcohol and temperature
+on membrane permeability.
+
+CP4:
+Investigate effects of temperature, pH, enzyme
+concentration and substrate concentration on initial
+reaction rate.
+
+CP5:
+Observe animal cells using a light microscope,
+prepare labelled drawings and use a graticule.
+
+CP6:
+Prepare and stain root tip squashes to observe mitosis.
+
+CP7:
+Observe and draw plant tissues using light microscopy.
+
+CP8:
+Determine the tensile strength of plant fibres.
+
+CP9:
+Investigate antimicrobial properties of plants
+using appropriate aseptic techniques.
+
+## IA2 Practicals — CP10 to CP18
+
+CP10:
+Investigate effects of light intensity, wavelength,
+temperature and carbon dioxide on photosynthesis.
+
+CP11:
+Study organism distribution and abundance using
+quadrats, transects and environmental measurements.
+
+CP12:
+Investigate temperature effects on organism development.
+
+CP13:
+Investigate microorganism growth rates in liquid culture.
+
+CP14:
+Investigate effects of antibiotics on bacteria.
+
+CP15:
+Investigate yeast respiration using an artificial
+hydrogen carrier or redox indicator.
+
+CP16:
+Use a respirometer to investigate respiration rate
+and respiratory quotient.
+
+CP17:
+Investigate effects of exercise using spirometer data.
+
+CP18:
+Investigate amylase production in germinating cereal grains.
+
+---
+
+# PART 2 — DETAILED UNIT 1 PRACTICALS
+
+# Core Practical 1
+Reducing Sugars and Starch
+
+## Aim
+
+Estimate concentrations of:
+- Reducing sugars using Benedict's reagent.
+- Starch using iodine solution.
+
+Use colour standards for semi-quantitative comparison.
+
+## Variables
+
+Independent variable:
+- Concentration of reducing sugar or starch.
+
+Dependent variable:
+- Colour change or estimated concentration.
+
+Control variables:
+- Sample volume.
+- Reagent volume.
+- Heating time.
+- Temperature.
+- Time allowed for colour development.
+
+## Example Method — Reducing Sugars
+
+1. Prepare standard solutions of known glucose concentrations.
+2. Add equal volumes of each solution to labelled tubes.
+3. Add a fixed volume of Benedict's reagent.
+4. Heat for a controlled period in a water bath.
+5. Record the colour or precipitate produced.
+6. Compare the unknown sample against the standards.
+7. Estimate its concentration.
+
+Expected observations:
+- Blue indicates little or no reducing sugar.
+- Green, yellow, orange or brick-red changes indicate
+  increasing reducing sugar concentration.
+
+The exact relationship depends on concentrations
+and experimental conditions.
+
+## Example Method — Starch
+
+1. Prepare known starch concentrations.
+2. Add equal volumes to labelled tubes.
+3. Add a fixed volume of iodine solution.
+4. Compare the intensity of the resulting colour.
+5. Estimate the unknown concentration.
+
+## Important Limitations
+
+- Visual colour comparisons are subjective.
+- Precipitate formation can complicate colour measurement.
+- Heating conditions must be controlled.
+- Standards should cover the expected sample range.
+
+---
+
+# Core Practical 2
+Vitamin C in Foods and Drinks
+
+## Aim
+
+Investigate and compare vitamin C concentrations.
+
+## Principle
+
+Vitamin C reduces DCPIP.
+
+DCPIP changes from blue to colourless when reduced,
+allowing vitamin C concentration to be estimated.
+
+## Variables
+
+Independent variable:
+- Type of food or drink.
+
+Dependent variable:
+- Volume of sample required to decolourise DCPIP
+  or calculated vitamin C concentration.
+
+Control variables:
+- DCPIP volume.
+- DCPIP concentration.
+- Sample preparation.
+- Endpoint judgement.
+- Temperature.
+- Exposure to air and light.
+
+## Example Method
+
+1. Prepare or obtain a standard vitamin C solution.
+2. Measure a fixed volume of DCPIP.
+3. Add the standard vitamin C solution until the endpoint.
+4. Record the volume required.
+5. Repeat and calculate a mean.
+6. Test food and drink samples using the same procedure.
+7. Calculate concentration using the calibration.
+8. Compare results.
+
+## Reliability and Validity
+
+- Repeat measurements.
+- Use a consistent endpoint.
+- Prepare fresh samples where possible.
+- Minimise oxidation of vitamin C before testing.
+- Account for dilution factors.
+- Consider interference from strongly coloured samples.
+
+## Common Calculation
+
+Concentration of original sample =
+concentration of diluted sample × dilution factor
+
+---
+
+# Core Practical 3
+Membrane Permeability
+
+## Aim
+
+Investigate the effect of:
+- Temperature.
+- Alcohol concentration.
+
+On membrane permeability.
+
+## Biological Principle
+
+Cell membranes contain phospholipids and proteins.
+
+Changing temperature or alcohol concentration may
+disrupt membrane structure and increase permeability.
+
+In beetroot, membrane damage allows betalain pigment
+to leak from cells into the surrounding solution.
+
+## Variables
+
+Independent variable:
+- Temperature or alcohol concentration.
+
+Dependent variable:
+- Pigment released, estimated using absorbance
+  or a colour standard.
+
+Control variables:
+- Beetroot disc size.
+- Disc thickness.
+- Number of discs.
+- Solution volume.
+- Exposure duration.
+- Initial tissue condition.
+- Solution pH where relevant.
+
+## Example Method
+
+1. Cut beetroot discs to consistent dimensions.
+2. Rinse to remove pigment released during cutting.
+3. Prepare labelled experimental solutions.
+4. Maintain appropriate temperatures.
+5. Add equal quantities of beetroot tissue.
+6. Leave samples for a fixed period.
+7. Remove the tissue.
+8. Measure pigment concentration using a colorimeter
+   or colour standards.
+9. Repeat for each treatment.
+10. Compare mean results.
+
+## Expected Findings
+
+Increased temperature may:
+- Increase phospholipid movement.
+- Disrupt membrane proteins.
+- Increase leakage of pigment.
+
+Increased alcohol concentration may:
+- Disrupt phospholipid organisation.
+- Increase membrane permeability.
+- Increase pigment leakage.
+
+## Sources of Error
+
+- Unequal tissue dimensions.
+- Different starting pigment concentrations.
+- Inconsistent rinsing.
+- Temperature fluctuations.
+- Inconsistent incubation times.
+
+## Improvements
+
+- Use a cork borer for consistent diameters.
+- Standardise tissue thickness.
+- Use multiple replicates.
+- Use a thermostatically controlled water bath.
+- Calibrate the colorimeter.
+- Include a suitable untreated control.
+
+---
+
+# Core Practical 4
+Initial Rate of Enzyme-Catalysed Reactions
+
+## Aim
+
+Investigate how initial enzyme reaction rate changes with:
+- Temperature.
+- pH.
+- Enzyme concentration.
+- Substrate concentration.
+
+## Biological Principle
+
+Enzymes lower activation energy.
+
+Reaction rate depends on:
+- Successful enzyme-substrate collisions.
+- Availability of active sites.
+- Active-site structure.
+- Environmental conditions.
+
+## Variables
+
+Independent variable:
+- The factor being investigated.
+
+Dependent variable:
+- Initial reaction rate.
+
+Control variables:
+- Other enzyme conditions.
+- Total reaction volume.
+- Incubation time.
+- Substrate concentration when not investigated.
+- Enzyme concentration when not investigated.
+
+## Example Method
+
+1. Prepare the required range of independent-variable values.
+2. Keep all other conditions constant.
+3. Allow reagents to reach the experimental temperature.
+4. Start the reaction by mixing enzyme and substrate.
+5. Measure product formation or substrate disappearance
+   at regular short intervals.
+6. Record the initial reaction rate.
+7. Repeat each condition.
+8. Calculate mean initial rates.
+9. Plot initial rate against the independent variable.
+
+## Initial Rate Calculation
+
+Initial rate =
+initial gradient of product-versus-time graph
+
+Alternatively:
+- Rate = change in product / time
+- Rate = decrease in substrate / time
+
+Use the correct measurement units.
+
+## Temperature
+
+At lower temperatures:
+- Molecules possess less kinetic energy.
+- Successful collisions occur less frequently.
+
+As temperature increases:
+- Successful collision frequency rises.
+- Rate may increase towards the optimum.
+
+Above the optimum:
+- Bonds maintaining enzyme structure may be disrupted.
+- The active site changes.
+- Fewer enzyme-substrate complexes form.
+
+## pH
+
+Changing pH may:
+- Alter R-group ionisation.
+- Disrupt ionic or hydrogen bonding.
+- Change active-site properties.
+- Reduce catalytic activity.
+
+## Enzyme Concentration
+
+If substrate is available in excess:
+- Increasing enzyme concentration increases
+  the number of available active sites.
+- Initial rate may increase proportionally.
+
+## Substrate Concentration
+
+At low concentrations:
+- Increasing substrate increases collision frequency.
+
+At high concentrations:
+- Most active sites become occupied.
+- Reaction rate approaches a maximum.
+
+## Limitations
+
+- Initial rate must be measured before substantial
+  substrate depletion.
+- Measurements must be sufficiently frequent.
+- Reagent mixing and reaction start times must be consistent.
+- Temperature and pH must remain controlled.
+
+---
+
+# PART 3 — OTHER IAS PRACTICALS
+
+# Core Practical 5
+Animal Cell Microscopy
+
+Skills:
+- Prepare or observe suitable animal cell specimens.
+- Use a light microscope.
+- Produce biological drawings.
+- Label visible structures.
+- Use an eyepiece graticule for measurements.
+- Calibrate measurements appropriately.
+
+Formula:
+Actual size = Image size / Magnification
+
+Important:
+- Keep measurement units consistent.
+- Distinguish magnification from resolution.
+- Use clear, continuous drawing lines.
+- Avoid unnecessary shading.
+
+# Core Practical 6
+Root Tip Squash and Mitosis
+
+Aim:
+Observe stages of mitosis.
+
+Core skills:
+- Prepare an appropriate root tip specimen.
+- Stain chromosomes.
+- Produce a squash preparation.
+- Identify stages of mitosis.
+- Count dividing and non-dividing cells.
+
+Calculation:
+Mitotic index =
+number of cells undergoing mitosis / total cells counted
+
+For percentage mitotic index:
+Multiply the result by 100.
+
+Sources of error:
+- Overlapping cells.
+- Poor staining.
+- Damaged specimens.
+- Inconsistent field selection.
+
+# Core Practical 7
+Plant Tissue Microscopy
+
+Skills:
+- Observe transverse sections of plant organs.
+- Produce labelled plan diagrams.
+- Identify xylem, phloem and sclerenchyma.
+- Compare tissue arrangements.
+- Describe relationships between structure and function.
+
+# Core Practical 8
+Tensile Strength of Plant Fibres
+
+Skills:
+- Measure force required to break plant fibres.
+- Measure cross-sectional dimensions.
+- Compare tensile properties.
+- Perform repeated measurements.
+
+Tensile stress =
+breaking force / cross-sectional area
+
+Control:
+- Fibre length.
+- Fibre diameter.
+- Moisture conditions.
+- Method of applying force.
+
+# Core Practical 9
+Antimicrobial Properties of Plants
+
+Skills:
+- Apply aseptic techniques.
+- Compare antimicrobial treatments.
+- Observe inhibition of microbial growth.
+- Measure zones of inhibition.
+
+Important:
+- Follow laboratory safety procedures.
+- Compare like-for-like conditions.
+- Use appropriate controls.
+- Do not assume that a larger zone proves a
+  universally more effective antimicrobial treatment.
+
+---
+
+# PART 4 — IA2 PRACTICALS
+
+# Core Practical 10
+Photosynthesis
+
+Investigate:
+- Light intensity.
+- Light wavelength.
+- Temperature.
+- Carbon dioxide availability.
+
+Measure:
+- Oxygen production or another suitable indicator
+  of photosynthetic rate.
+
+Control:
+- Plant material.
+- Experimental duration.
+- Other environmental factors.
+
+# Core Practical 11
+Ecological Sampling
+
+Skills:
+- Quadrats.
+- Transects.
+- Random sampling.
+- Estimating abundance.
+- Measuring abiotic factors.
+
+Key considerations:
+- Representative sampling.
+- Sample size.
+- Avoiding selection bias.
+- Differences between random and systematic sampling.
+
+# Core Practical 12
+Temperature and Development
+
+Possible contexts:
+- Seedling growth.
+- Brine shrimp hatching.
+
+Skills:
+- Establish temperature treatments.
+- Measure developmental outcomes.
+- Control other environmental factors.
+- Address ethical use of organisms.
+
+# Core Practical 13
+Microbial Growth in Liquid Culture
+
+Skills:
+- Measure microbial growth over time.
+- Construct growth curves.
+- Interpret changes in growth rate.
+- Evaluate measurement methods.
+
+Follow appropriate laboratory biosafety requirements.
+
+# Core Practical 14
+Antibiotics and Bacteria
+
+Skills:
+- Compare effects of antibiotics on bacterial growth.
+- Measure inhibition zones.
+- Interpret comparative effectiveness.
+
+Important:
+- Zone size depends on several factors.
+- Diffusion rate and antibiotic concentration
+  may influence the result.
+- Appropriate controls are essential.
+
+# Core Practical 15
+Yeast Respiration
+
+Principle:
+A redox indicator changes colour when reduced.
+
+Skills:
+- Investigate respiratory activity.
+- Control temperature and reagent concentrations.
+- Measure time or rate of indicator change.
+- Interpret results in terms of respiration.
+
+# Core Practical 16
+Respirometer
+
+Aim:
+Determine respiration rate and respiratory quotient.
+
+Respiratory quotient:
+RQ = CO2 produced / O2 consumed
+
+Skills:
+- Measure gas-volume changes.
+- Control temperature.
+- Account for respiration time and sample mass.
+- Understand the purpose of carbon dioxide absorption
+  where used in the apparatus.
+
+# Core Practical 17
+Spirometry and Exercise
+
+Measure or calculate:
+- Tidal volume.
+- Breathing frequency.
+- Respiratory minute ventilation.
+- Oxygen consumption.
+
+Respiratory minute ventilation =
+tidal volume × breathing frequency
+
+Use trace data and appropriate time intervals.
+
+# Core Practical 18
+Amylase Production in Germinating Grains
+
+Focus:
+- Amylase synthesis during germination.
+- Breakdown of stored starch.
+- Relationship between germination and enzyme activity.
+
+Possible measurements:
+- Starch disappearance.
+- Reducing sugar formation.
+- Changes in enzyme activity.
+
+---
+
+# PART 5 — UNIVERSAL PRACTICAL SKILLS
+
+## Variables
+
+Independent variable:
+Factor deliberately changed.
+
+Dependent variable:
+Factor measured.
+
+Control variables:
+Factors maintained constant.
+
+Control treatment:
+A reference condition used to interpret experimental results.
+
+## Reliability
+
+Reliability concerns consistency of measurements.
+
+Improvements:
+- Repeat measurements.
+- Use larger appropriate samples.
+- Standardise procedures.
+- Reduce random errors.
+
+## Validity
+
+Validity concerns whether the method measures what
+it is intended to measure.
+
+Improvements:
+- Control confounding variables.
+- Use suitable control treatments.
+- Measure the correct dependent variable.
+- Avoid systematic bias.
+
+## Accuracy
+
+Accuracy concerns closeness to the true value.
+
+Improvements:
+- Calibrate instruments.
+- Use appropriate measuring equipment.
+- Correct systematic measurement errors.
+
+## Precision
+
+Precision concerns closeness of repeated measurements.
+
+Higher-resolution instruments may improve precision
+but do not automatically improve accuracy.
+
+## Uncertainty
+
+Percentage uncertainty =
+absolute uncertainty / measured value × 100
+
+## Percentage Change
+
+Percentage change =
+(final value - initial value) / initial value × 100
+
+## Rate
+
+Rate = change in measured quantity / time
+
+## Percentage Cover
+
+Percentage cover =
+number of occupied sampling points /
+total sampling points × 100
+
+---
+
+# PART 6 — EXAMINATION RULES
+
+For practical questions:
+
+1. Identify the experimental aim.
+2. Identify the independent and dependent variables.
+3. State the measurement method.
+4. State relevant control variables.
+5. Explain why controls are necessary.
+6. Include repetitions where appropriate.
+7. Describe the expected results.
+8. Give scientifically justified improvements.
+9. Include valid safety considerations.
+10. Use correct units, calculations and graphs.
+
+For investigations involving graphs:
+- Label both axes.
+- Include units.
+- Use an appropriate scale.
+- Plot points accurately.
+- Draw a suitable line or curve where required.
+- Quote data when describing patterns.
+- Do not extrapolate unless justified.
+
+For evaluation:
+- Identify the limitation.
+- Explain its effect on validity or reliability.
+- Suggest a realistic correction.
+
+Weak:
+"Repeat the experiment to make it accurate."
+
+Better:
+"Repeat measurements under each condition and
+calculate a mean to reduce the effect of random variation."
+
+---
+
+# Sources
+
+Pearson Edexcel International A-Level Biology
+Specification (2018), Issue 2, February 2021.
+
+Official specification:
+https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Biology/2018/Specification-and-Sample-Assessment/International-A-Level-Biology-Spec.pdf
+
+Practical examples are study-oriented adaptations.
+The specification defines the required practical objectives.
